@@ -1,0 +1,18 @@
+﻿  default.cpp
+  groups.cpp
+  os.cpp
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(31,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(47,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(62,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(87,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(107,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(133,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(168,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(184,12): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(214,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(237,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(260,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(292,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(462,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  DimaOS.vcxproj -> C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\Debug\DimaOS.exe

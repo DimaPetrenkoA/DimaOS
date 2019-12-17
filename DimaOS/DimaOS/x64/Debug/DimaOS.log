@@ -1,0 +1,36 @@
+﻿  default.cpp
+  filesystem.cpp
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\commands\filesystem.cpp(22,12): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\commands\filesystem.cpp(84,12): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\commands\filesystem.cpp(155,14): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\commands\filesystem.cpp(204,14): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+  groups.cpp
+  users.cpp
+  core.cpp
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\core.cpp(15,47): warning C4244: аргумент: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\core.cpp(26,48): warning C4244: аргумент: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\core.cpp(114,47): warning C4244: аргумент: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\core.cpp(130,50): warning C4244: аргумент: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\core.cpp(150,52): warning C4244: аргумент: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\core.cpp(192,27): warning C4244: =: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\core.cpp(289,61): warning C4244: аргумент: преобразование "uint64_t" в "int", возможна потеря данных
+  globals.cpp
+  main.cpp
+  os.cpp
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(31,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(47,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(62,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(87,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(107,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(133,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(168,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(184,12): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(213,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(236,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(259,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(291,11): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\os.cpp(457,23): warning C4018: <: несоответствие типов со знаком и без знака
+  utils.cpp
+C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\DimaOS\utils.cpp(73,41): warning C4244: аргумент: преобразование "uint16_t" в "uint8_t", возможна потеря данных
+  Создание кода...
+  DimaOS.vcxproj -> C:\Users\dimap\OneDrive\Документы\GitHub\DimaOS\DimaOS\x64\Debug\DimaOS.exe
